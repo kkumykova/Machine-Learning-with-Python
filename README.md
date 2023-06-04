@@ -114,7 +114,7 @@ When to stop splitting the data and assign a label (try to predict a label)?
 
 ## Decision Trees for Logical Rules
 
-![decision trees](decision_trees_ml.jpg)
+![decision trees](https://www.xoriant.com/cdn/ff/weqpbrtpXGjLpVQ_X-gWqsFlvjAxpv5Wv3xNW0A4vuQ/1602007254/public/2020-10/a-decisionTreesforClassification-AMachineLearningAlgorithm.jpg)
 
 **CART**: classification and regression trees = decision trees (logical trees with top-down structure)
 
