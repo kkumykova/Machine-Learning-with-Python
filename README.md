@@ -110,3 +110,30 @@ To build our decision tree top-down we need to answer two big questions:
 Use the average Gini index to calculate the purity score.
 
 When to stop splitting the data and assign a label (try to predict a label)?
+
+
+## Decision Trees for Logical Rules
+
+![decision trees](decision_trees_ml.jpg)
+
+**CART**: classification and regression trees = decision trees (logical trees with top-down structure)
+
+* You cannot do machine learning on data you do not have.
+
+* **Decision tree**: a rule that distinguishes positive and negative examples of a concept.
+
+* **Binary classification tasks** - is used when you want to separate the input into one of two classes - a prototypical ML problem.
+
+* **Recursion** - applying the same procedure repeatedly to simpler and simpler versions of the same problem.
+
+* To build our decision tree top-down we need to answer two big questions:
+
+---
+
+ ## Which node to pick first?
+
+**Use the average Gini index to calculate the purity score.**
+
+At wat point should you stop splitting the data and assign a label (try to predict a label)?
+
+---
