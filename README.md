@@ -137,3 +137,19 @@ When to stop splitting the data and assign a label (try to predict a label)?
 At wat point should you stop splitting the data and assign a label (try to predict a label)?
 
 ---
+# Neural Networks for Perceptual Rules 
+
+**Perception**: mapping low-level sensory data to high-level concepts.
+
+**Activation**: number of how excited each unit is.
+
+**Acyclic**: no unit's value can be based, even indirectly, on its own value.
+
+**Activation of a unit**: obtained by taking weighted sum of activations of all units that connect to it.
+
+**Popular activation functions**:
+1. linear
+2. sigmoid
+3. ReLU (rectified linear unit)
+
+**Training a neural network**: a process of finding weight values that result in the desired computation.
